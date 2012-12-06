@@ -9,4 +9,4 @@ setup(
         url='http://github.com/fitze/hipspring',
         license='LICENSE.txt',
         long_description=open('README.md').read(),
-        }
+        )
